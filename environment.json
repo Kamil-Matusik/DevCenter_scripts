@@ -1,7 +1,8 @@
 {
-  "properties": {
-    "customizationScript": {
-      "scriptPath": "install-tools.ps1"
-    }
+  "name": "Dev Box with Tools",
+  "description": "Dev Box with custom tools installed",
+  "os": "windows",
+  "customization": {
+    "script": "install-tools.ps1"
   }
 }
