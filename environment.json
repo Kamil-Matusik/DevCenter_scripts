@@ -1,6 +1,6 @@
 {
-  "name": "Dev Box with Tools",
-  "description": "Dev Box with custom tools installed",
+  "name": "Custom Dev Box",
+  "description": "Dev Box with custom tools (PowerShell Core, Azure CLI)",
   "os": "windows",
   "customization": {
     "script": "install-tools.ps1"
