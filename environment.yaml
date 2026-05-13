@@ -1,0 +1,7 @@
+name: Custom Dev Box
+description: Dev Box with custom tools (PowerShell Core, Azure CLI)
+environmentType: devbox
+customization:
+  script: install-tools.ps1
+metadata:
+  os: windows
