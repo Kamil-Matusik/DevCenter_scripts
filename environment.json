@@ -1,0 +1,7 @@
+{
+  "properties": {
+    "customizationScript": {
+      "scriptPath": "install-tools.ps1"
+    }
+  }
+}
